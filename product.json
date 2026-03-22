@@ -1,47 +1,17 @@
 [
   {
-    "id": 1,
-    "name": "redmi",
-    "price": 11000
-  },
-  {
     "id": 2,
     "name": "poco",
     "price": 15000
   },
   {
     "id": 3,
-    "name": "vivo",
-    "price": 20000
+    "name": "oneplus",
+    "price": 80000
   },
   {
     "id": 4,
     "name": "iphone",
     "price": 100000
-  },
-  {
-    "id": 5,
-    "name": "poco",
-    "price": 15000
-  },
-  {
-    "id": 6,
-    "name": "samsung",
-    "price": 50000
-  },
-  {
-    "id": 7,
-    "name": "samsung",
-    "price": 50000
-  },
-  {
-    "id": 8,
-    "name": "samsung",
-    "price": 50000
-  },
-  {
-    "id": 9,
-    "name": "samsung",
-    "price": 50000
   }
 ]
